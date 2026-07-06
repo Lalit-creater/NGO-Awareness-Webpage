@@ -18,7 +18,7 @@ This project was built solely for learning and as a part of the internship assig
 - 
 
 ## Deployment
-Live Site: [Add your Vercel link here after deployment]
+Live Site: https://ngo-awareness-webpage.vercel.app/
 
 ## Acknowledgement
 This webpage was developed as part of the Web Development Internship tasks assigned by **Inamigos Foundation**.
